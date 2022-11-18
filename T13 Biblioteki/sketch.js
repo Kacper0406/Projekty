@@ -20,6 +20,7 @@ function draw() {
     fill(door);
     rect(125, 250, 75, 125);
 
+    fill(handle);
     circle(190, 325, 10);
 
     fill(window);
