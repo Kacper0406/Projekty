@@ -35,4 +35,5 @@ function random(min,max){
 btn2.addEventListener('click', function(){
     quiz();
     wynik.innerHTML = '';
+    liczba_x.value = "";
 })
